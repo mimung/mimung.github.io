@@ -1,5 +1,5 @@
 ---
-categories: web basic
+categories: web basi
 ---
 ![이미지](/assets/blog1.jpg)
 
